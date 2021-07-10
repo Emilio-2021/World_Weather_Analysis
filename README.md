@@ -23,6 +23,11 @@ These different categories of information make it easy for travelers to choose e
 
 This folder takes the information gained in the weather database and uses Google Maps API to plot different travel destinations with a hotel at each location, we select a temperature range between 75 and 88 degrees fahrenheit.
 
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/16723095/125148856-ce266280-e0fa-11eb-9eb7-1d04f207f453.png)
+
 ### 3.Vacation Itinerary
 
 This analysis takes the search information from the vacation search and uses Google Maps directions API to create a vacation itinerary.
+
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/16723095/125148863-e0a09c00-e0fa-11eb-970b-e18b47568dc1.png)
+
