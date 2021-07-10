@@ -29,5 +29,6 @@ This folder takes the information gained in the weather database and uses Google
 
 This analysis takes the search information from the vacation search and uses Google Maps directions API to create a vacation itinerary.
 
-![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/16723095/125148863-e0a09c00-e0fa-11eb-970b-e18b47568dc1.png)
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/16723095/125148879-fa41e380-e0fa-11eb-8005-6558e0e4aa97.png)
+
 
